@@ -1,0 +1,41 @@
+<RCC>
+    <qresource prefix="/resources">
+        <file>button.png</file>
+        <file>Shovel.png</file>
+        <file>shovelbank.png</file>
+        <file>bomb.png</file>
+        <file>boom.gif</file>
+        <file>burn.gif</file>
+        <file>card.png</file>
+        <file>cb.gif</file>
+        <file>coin.gif</file>
+        <file>coinmaker.png</file>
+        <file>czba.gif</file>
+        <file>czbw.gif</file>
+        <file>pea.png</file>
+        <file>peasnow.png</file>
+        <file>protecter.png</file>
+        <file>ps.gif</file>
+        <file>sf.gif</file>
+        <file>shooter.png</file>
+        <file>shop.png</file>
+        <file>wallnut1.gif</file>
+        <file>wallnut2.gif</file>
+        <file>wallnut3.gif</file>
+        <file>za.gif</file>
+        <file>zd.gif</file>
+        <file>zh.gif</file>
+        <file>zw1.gif</file>
+        <file>zw2.gif</file>
+        <file>tech_shooter.png</file>
+        <file>tech_coinmaker.png</file>
+        <file>tech_protecter.png</file>
+        <file>tech_bomb.png</file>
+        <file>tech_enemy_normal.png</file>
+        <file>tech_enemy_plus.png</file>
+        <file>tech_enemy_warrior_normal.png</file>
+        <file>tech_enemy_warrior_plus.png</file>
+        <file>menu_starfield.png</file>
+    </qresource>
+    <qresource prefix="/new/prefix1"/>
+</RCC>
